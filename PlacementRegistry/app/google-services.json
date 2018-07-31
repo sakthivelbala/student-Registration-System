@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "251896970278",
+    "firebase_url": "https://placement-registry.firebaseio.com",
+    "project_id": "placement-registry",
+    "storage_bucket": "placement-registry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251896970278:android:0b6616c7a5fbd42c",
+        "android_client_info": {
+          "package_name": "com.example.sakthivelbalakrishnan.placementregistry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251896970278-1ok9pbjcfvu4pvn5ihuvsk0bgr6020u0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sakthivelbalakrishnan.placementregistry",
+            "certificate_hash": "85f17d497fc7d3f8559ba9226c54b5c22d408a2f"
+          }
+        },
+        {
+          "client_id": "251896970278-ego2i9rceft5tpate3fkis8rdciidc3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sakthivelbalakrishnan.placementregistry",
+            "certificate_hash": "f3f81641a48b14a37f06e41dd3f6a7211f7f8d0b"
+          }
+        },
+        {
+          "client_id": "251896970278-kq08jnh6k979p2pkjheouvo44lq6aur2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTqQ0reH1D_sL3XJYaWMyMx4W_hclER3o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251896970278-kq08jnh6k979p2pkjheouvo44lq6aur2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
